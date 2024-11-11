@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ml models",
+			"path": "."
+		},
+		{
+			"name": "dataset",
+			"path": "../downloads/archive (1)/dataset"
+		}
+	],
+	"settings": {}
+}
